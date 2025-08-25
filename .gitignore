@@ -1,0 +1,34 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+.env
+mlp_v1/
+
+# Dados/modelos/artefatos pesados
+data/
+models/
+experiments/
+*.csv
+*.tsv
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.npz
+*.npy
+*.pkl
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.onnx
+*.mp4
+*.mov
